@@ -41,4 +41,5 @@ $ rosrun rviz rviz -d `rospack find rbx1_nav`/sim.rv
 
 # Video
 [Watch demo here]("https://www.youtube.com/watch?v=wNQavCcd48c&t=3s")
+[linkname](https://youtubevideourl)
 
