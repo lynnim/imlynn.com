@@ -40,5 +40,5 @@ $ rosrun rviz rviz -d `rospack find rbx1_nav`/sim.rv
 -Rotate: incrementally rotates the robot the degrees requested by the user.
 
 # Video
-<a href="https://www.youtube.com/watch?v=wNQavCcd48c&t=3s"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"></a>
+[Watch demo here]<"https://www.youtube.com/watch?v=wNQavCcd48c&t=3s">
 
